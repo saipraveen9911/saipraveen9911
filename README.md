@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Sai%20Praveen&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Quality%20Engineering&descAlignY=60&descSize=18" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&width=1200&color=gradient&text=Sai%20Praveen&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Quality%20Engineering&descAlignY=60&descSize=18"
+  width="100%"
+  alt="Sai Praveen"
+/>
+
+<br>
 
 <p>
   <a href="https://github.com/saipraveen9911">
@@ -246,5 +252,11 @@ I believe good QA engineering combines critical thinking, automation, collaborat
 
 
 ⭐ If you find my projects useful, consider giving them a star!
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" />
 
 </div>
