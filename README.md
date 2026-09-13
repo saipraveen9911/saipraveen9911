@@ -58,9 +58,9 @@ interests:
 | :-----------------: | :-----------------: | :---------------: |
 |  Functional Testing |    UI Automation    | Defect Management |
 |  Regression Testing |      Playwright     |   Test Planning   |
-| Integration Testing |       Selenium      |     Test Data     |
+| Integration Testing |       Reusable Frameworks      |     Test Data     |
 |  End-to-End Testing |      TypeScript     |  Quality Analysis |
-|     Web Testing     | Reusable Frameworks |   Test Reporting  |
+|     User Acceptance Testing     | |   Test Reporting  |
 
 </div>
 
@@ -71,16 +71,18 @@ interests:
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
+<img src="https://skillicons.dev/icons?i=typescript,python" />
 </p>
+• `TypeScript` • `Python`
 
 ### 🧪 Test Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=playwright,selenium" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://skills.syvixor.com/api/icons?i=playwright"/>
 </p>
 
-`Playwright` • `Selenium` • `TypeScript` • `JavaScript`
+`Playwright` • `Selenium` 
 
 ### 🔧 Tools & Development
 
