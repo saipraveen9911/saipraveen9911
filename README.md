@@ -168,14 +168,6 @@ Creating automation solutions to simplify test-data creation and maintenance.
 
 ### 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saipraveen9911&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen9911&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -185,35 +177,16 @@ Creating automation solutions to simplify test-data creation and maintenance.
 </div>
 
 ---
-
-<h2 align="center">📊 GitHub Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saipraveen9911&theme=tokyo-night&hide_border=true&area=true&custom_title=Sai%20Praveen%27s%20GitHub%20Activity"
-    alt="Sai Praveen's GitHub Activity Graph"
-    width="95%"
-  />
-</p>
-
----
-
+  
 ### 🎯 2026 Goals
 
-🚀 Build production-ready automation frameworks
-
-🧪 Master Playwright with TypeScript
-
-🔌 Strengthen API automation skills
-
-⚙️ Learn CI/CD integration for test automation
-
-🤖 Explore AI-assisted testing
-
-📦 Publish reusable QA utilities
-
-🌟 Build a strong open-source testing portfolio
-
+* 🚀 Build production-quality automation frameworks
+* 🧪 Improve test automation architecture
+* 🔌 Expand API automation expertise
+* ⚙️ Integrate automation with CI/CD
+* 🤖 Explore AI-assisted software testing
+* 📚 Build and publish reusable QA tools
+  
 ---
 
 ### 🏆 What I Like Building
@@ -244,7 +217,7 @@ Creating automation solutions to simplify test-data creation and maintenance.
 
 ### 💡 QA Philosophy
 
-"Quality is not just about finding bugs — it's about building confidence in the software."
+> "Quality is not just about finding bugs — it's about building confidence in the software."
 
 I believe good QA engineering combines critical thinking, automation, collaboration and continuous improvement.
 
@@ -252,26 +225,26 @@ I believe good QA engineering combines critical thinking, automation, collaborat
 
 ### 🤝 Let's Connect
 
-<div align="center">
+<div align= "center">
 
 <a href="https://github.com/saipraveen9911"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
+&nbsp;&nbsp;
 <a href="mailto:saipraveen9911@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+</div>
 
 <!-- Add your LinkedIn profile below -->
 
 <!-- <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> -->
 
-</div>
 
-<div align="center">
+---
 
-⭐ Thanks for visiting my profile!
+<div align= "center">
+  
+### 💡 "Quality is not an act, it is a habit."
 
-If you find my projects useful, consider giving them a ⭐
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+⭐ If you find my projects useful, consider giving them a star!
 
 </div>
