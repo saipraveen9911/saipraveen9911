@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 I'm a **QA Engineer focused on building reliable, scalable and maintainable software quality solutions**.
 
-My experience spans **manual testing, automation testing, API testing, regression testing and test data automation**.
+My experience spans **Manual testing, Automation testing, Regression testing and test data automation**.
 
 I enjoy turning repetitive testing activities into **efficient automated workflows** and building frameworks that help teams release software with confidence.
 
@@ -46,12 +46,9 @@ I enjoy turning repetitive testing activities into **efficient automated workflo
 * 🧪 Functional & Regression Testing
 * 🤖 Test Automation
 * 🌐 Web Application Testing
-* 📱 Mobile Application Testing
-* 🔌 API Testing
 * 📊 Test Data Management
-* 🔄 CI/CD Testing
 * 🐞 Defect Analysis & Tracking
-* 📈 Quality Engineering
+* 📈 Quality Assurance Engineering
 
 ---
 
@@ -71,7 +68,7 @@ I enjoy turning repetitive testing activities into **efficient automated workflo
 
 **Testing Tools**
 
-`Playwright` • `Selenium` • `Postman` • `REST API` • `ExcelJS`
+`Playwright` • `Selenium`
 
 ### ⚙️ Development & DevOps
 
@@ -99,7 +96,7 @@ A scalable automation framework designed for reliable end-to-end testing.
 * Screenshot & video capture
 
 ---
-
+<!--
 ### 🔌 API Automation Framework
 
 Automated API validation framework for functional and regression testing.
@@ -144,7 +141,7 @@ Automation solution for creating and maintaining structured test data using Exce
 </div>
 
 ---
-
+-->
 ## 🔥 GitHub Streak
 
 <div align="center">
