@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sai Praveen
 
-### 🚀 Senior QA Engineer | Automation | API Testing | Quality Engineering
+### 🚀 Senior QA Engineer | Automation | Quality Assurance Engineering
 
 <p>
   <a href="https://github.com/saipraveen9911">
