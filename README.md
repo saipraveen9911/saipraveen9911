@@ -1,222 +1,173 @@
-
-
-<!--
-**saipraveen9911/saipraveen9911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
 
-# 👋 Hi, I'm Sai Praveen
-
-### 🚀 Senior QA Engineer | Automation | Quality Assurance Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Sai%20Praveen&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Quality%20Engineering&descAlignY=60&descSize=18" />
 
 <p>
   <a href="https://github.com/saipraveen9911">
-    <img src="https://img.shields.io/badge/GitHub-saipraveen9911-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-saipraveen9911-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saipraveen9911&style=for-the-badge&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=saipraveen9911&style=flat-square&color=blueviolet" />
 </p>
+
+</div>
+
+# 👋 Hello, I'm Sai Praveen
+
+> **QA Engineer passionate about building reliable software through intelligent testing and automation.**
+
+I specialize in **software testing, test automation, regression testing, and quality engineering**, with a strong interest in building maintainable automation frameworks and improving testing efficiency.
+
+I enjoy transforming repetitive testing activities into **reliable, reusable and scalable automation solutions**.
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Sai Praveen
+role: QA Engineer
+focus:
+  - Software Testing
+  - Test Automation
+  - Quality Engineering
+  - Regression Testing
+  - Test Data Automation
+
+currently_learning:
+  - TypeScript
+  - Playwright
+  - Advanced Test Automation
+  - API Testing
+  - CI/CD
+  - AI-assisted Testing
+
+interests:
+  - Automation Frameworks
+  - Developer Tools
+  - Test Engineering
+  - Process Improvement
+```
+
+---
+
+## 🧪 Testing Expertise
+
+<div align="center">
+
+|      🔍 Testing     |    🤖 Automation    |     📊 Quality    |
+| :-----------------: | :-----------------: | :---------------: |
+|  Functional Testing |    UI Automation    | Defect Management |
+|  Regression Testing |      Playwright     |   Test Planning   |
+| Integration Testing |       Selenium      |     Test Data     |
+|  End-to-End Testing |      TypeScript     |  Quality Analysis |
+|     Web Testing     | Reusable Frameworks |   Test Reporting  |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technology Stack
 
-I'm a **QA Engineer focused on building reliable, scalable and maintainable software quality solutions**.
-
-My experience spans **Manual testing, Automation testing, Regression testing and test data automation**.
-
-I enjoy turning repetitive testing activities into **efficient automated workflows** and building frameworks that help teams release software with confidence.
-
-### 🔍 What I Do
-
-* 🧪 Functional & Regression Testing
-* 🤖 Test Automation
-* 🌐 Web Application Testing
-* 📊 Test Data Management
-* 🐞 Defect Analysis & Tracking
-* 📈 Quality Assurance Engineering
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+### 💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
 </p>
 
-### 🧪 Testing & Automation
+### 🧪 Test Automation
 
 <p>
 <img src="https://skillicons.dev/icons?i=playwright,selenium" />
 </p>
 
-**Testing Tools**
+`Playwright` • `Selenium` • `TypeScript` • `JavaScript`
 
-`Playwright` • `Selenium`
-
-### ⚙️ Development & DevOps
+### 🔧 Tools & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm" />
 </p>
 
+`Git` • `GitHub` • `VS Code` • `Node.js` • `npm`
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🧪 Automation Framework
+### 🧪 UI Test Automation
 
-A scalable automation framework designed for reliable end-to-end testing.
+Building maintainable automated test suites for web applications with a focus on reliability and reusability.
 
-**Tech:** TypeScript • Playwright • Node.js
-
-**Highlights**
+**Focus Areas**
 
 * Page Object Model
-* Reusable test components
+* Reusable components
 * Test data management
+* Cross-browser testing
 * Parallel execution
-* HTML reporting
-* Screenshot & video capture
+* Screenshots & traces
+* Automated reporting
 
----
-<!--
-### 🔌 API Automation Framework
-
-Automated API validation framework for functional and regression testing.
-
-**Tech:** TypeScript • REST API • Postman
-
-**Highlights**
-
-* API request validation
-* Response verification
-* Status code validation
-* Schema validation
-* Test data management
-* Regression suites
+**Tech:** `TypeScript` `Playwright` `Node.js`
 
 ---
 
 ### 📊 Test Data Automation
 
-Automation solution for creating and maintaining structured test data using Excel.
+Creating automation solutions to simplify test-data creation and maintenance.
 
-**Tech:** TypeScript • ExcelJS • Node.js
+**Focus Areas**
 
-**Highlights**
-
-* Automated Excel generation
+* Excel-based test data
 * Data validation
-* Dropdown management
-* Unique test-data combinations
-* Update & insert workflows
+* Automated data generation
+* Dropdown handling
+* Data uniqueness
+* Reusable utilities
+
+**Tech:** `TypeScript` `ExcelJS` `Node.js`
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saipraveen9911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveen9911&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
--->
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=saipraveen9911&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Sai Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saipraveen9911\&theme=tokyo-night\&hide_border=true)
-
-</div>
-
----
-
-## 🌱 Currently Learning
 
 ```text
-TypeScript
-     ↓
-Playwright
-     ↓
-Advanced Test Automation
-     ↓
-API Automation
-     ↓
-CI/CD
-     ↓
-AI-assisted Testing
+                    ┌────────────────────┐
+                    │     TypeScript     │
+                    └─────────┬──────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │     Playwright     │
+                    └─────────┬──────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │  Test Automation  │
+                    │    Architecture   │
+                    └─────────┬──────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │    API Testing     │
+                    └─────────┬──────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │       CI/CD        │
+                    └─────────┬──────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │ AI-assisted Testing│
+                    └────────────────────┘
 ```
 
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build production-quality automation frameworks
-* 🧪 Improve test automation architecture
-* 🔌 Expand API automation expertise
-* ⚙️ Integrate automation with CI/CD
-* 🤖 Explore AI-assisted software testing
-* 📚 Build and publish reusable QA tools
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/saipraveen9911">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="saipraveen9911@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<!-- Add your LinkedIn URL here -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
-
 </div>
 
 ---
 
+## 📈 GitHub Activity
+
 <div align="center">
 
-### 💡 "Quality is not an act, it is a habit."
+<img src="https://github-readme-stats.vercel.app/api?username=saipraveen9911&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
 
-⭐ If you find my projects useful, consider giving them a star!
-
-</div>
+<img src="https://github-readme-stats.ve
