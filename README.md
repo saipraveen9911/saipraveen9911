@@ -198,7 +198,9 @@ AI-assisted Testing
 <a href="https://github.com/saipraveen9911">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 <!-- Add your LinkedIn URL here -->
 
 <!--
