@@ -196,29 +196,28 @@ Creating automation solutions to simplify test-data creation and maintenance.
 ---
 
 ### 🏆 What I Like Building
+```mermaid
 
-```text
-🧪 Test Frameworks
-        │
-        ├── UI Automation
-        ├── API Automation
-        └── Regression Suites
-                 │
-                 ↓
-📊 Test Data
-        │
-        ├── Data Generation
-        ├── Validation
-        └── Management
-                 │
-                 ↓
-⚙️ Engineering
-        │
-        ├── Reusable Utilities
-        ├── CI/CD
-        └── Quality Improvements
+flowchart TB
+    A["🧪 Test Frameworks"]
+
+    A --> A1["🌐 UI Automation"]
+    A --> A2["🔌 API Automation"]
+    A --> A3["🔄 Regression Suites"]
+
+    A3 --> B["📊 Test Data"]
+
+    B --> B1["📝 Data Generation"]
+    B --> B2["✅ Validation"]
+    B --> B3["🗂️ Management"]
+
+    B3 --> C["⚙️ Engineering"]
+
+    C --> C1["♻️ Reusable Utilities"]
+    C --> C2["🚀 CI/CD"]
+    C --> C3["📈 Quality Improvements"]
+
 ```
-
 ---
 
 ### 💡 QA Philosophy
