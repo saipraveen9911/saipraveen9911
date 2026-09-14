@@ -140,34 +140,25 @@ Creating automation solutions to simplify test-data creation and maintenance.
 ## 📚 Currently Learning
 
 <div align="center">
+  
+```mermaid
 
-```text
-                    ┌────────────────────┐
-                    │     TypeScript     │
-                    └─────────┬──────────┘
-                   ↓
-                    ┌────────────────────┐
-                    │     Playwright     │
-                    └─────────┬──────────┘
-                   ↓
-                    ┌────────────────────┐
-                    │  Test Automation  │
-                    │    Architecture   │
-                    └─────────┬──────────┘
-                   ↓
-                    ┌────────────────────┐
-                    │    API Testing     │
-                    └─────────┬──────────┘
-                   ↓
-                    ┌────────────────────┐
-                    │       CI/CD        │
-                    └─────────┬──────────┘
-                   ↓
-                    ┌────────────────────┐
-                    │ AI-assisted Testing│
-                    └────────────────────┘
+flowchart TD
+    A["📘 TypeScript<br/>Fundamentals"]
+    B["🎭 Playwright<br/>Web Automation"]
+    C["🏗️ Automation<br/>Architecture"]
+    D["🔌 API<br/>Automation"]
+    E["🚀 CI/CD<br/>Integration"]
+    F["🤖 AI-assisted<br/>Testing"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+
+
 ```
-
 </div>
 
 ---
