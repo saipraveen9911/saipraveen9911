@@ -7,14 +7,12 @@
 />
 
 <br>
-
 <p>
   <a href="https://github.com/saipraveen9911">
     <img src="https://img.shields.io/badge/GitHub-saipraveen9911-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=saipraveen9911&style=flat-square&color=blueviolet" />
 </p>
-
 </div>
 
 # 👋 Hello, I'm Sai Praveen
