@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&width=1200&color=gradient&text=Sai%20Praveen&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Quality%20Engineering&descAlignY=60&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&width=1200&color=gradient&text=Sai%20Praveen&fontSize=48&fontAlignY=35&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20Quality%20Assurance%20Engineering&descAlignY=60&descSize=18"
   width="100%"
   alt="Sai Praveen"
 />
