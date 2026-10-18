@@ -224,7 +224,10 @@ I believe good QA engineering combines critical thinking, automation, collaborat
 <a href="https://github.com/saipraveen9911"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 &nbsp;&nbsp;
 <a href="mailto:saipraveen9911@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
+&nbsp;&nbsp;
+<a href="https://t.me/playwrightTSLearn">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </div>
 
 <!-- Add your LinkedIn profile below -->
